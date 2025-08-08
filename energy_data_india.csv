@@ -1,0 +1,13 @@
+Year,Region,Energy_Source,Production
+2015,North,Solar,150
+2015,North,Wind,200
+2015,South,Solar,250
+2015,South,Wind,300
+2016,North,Solar,180
+2016,North,Wind,220
+2016,South,Solar,280
+2016,South,Wind,330
+2017,North,Solar,200
+2017,North,Wind,240
+2017,South,Solar,310
+2017,South,Wind,360
